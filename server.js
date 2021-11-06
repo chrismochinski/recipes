@@ -1,7 +1,7 @@
 const { createServer } = require('http');
 const url = require('url');
-const axios = require('axios');
-const chalk = require('chalk');
+const axios = require('axios'); //updated
+const chalk = require('chalk'); //updated 
 
 const headers = {
     'Content-Type': 'application/json',
